@@ -2,11 +2,13 @@
 - 🔭 I’m currently working on my personal project [JustBe U](https://www.justbe-u.com/)
 - 🌱 I’m currently learning **Ruby on Rails**, **JavaScript** and **Docker**
 
-## Slills
+## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ruby,rails)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,git,github,figma)](https://skillicons.dev)
-## Status
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoshi5170&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yoshi5170&theme=tokyonight&layout=compact&count_private=true&show_icons=true)
+<img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshi5170&layout=compact&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <!--
 **yoshi5170/yoshi5170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
