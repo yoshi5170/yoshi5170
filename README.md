@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there, I'm YOSHI 👋
+- 🔭 I’m currently working on my personal project [JustBe U](https://www.justbe-u.com/)
+- 🌱 I’m currently learning **Ruby on Rails**, **JavaScript** and **Docker**
+
+## Slills
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ruby,rails)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,git,github,figma)](https://skillicons.dev)
+## Status
+
 
 <!--
 **yoshi5170/yoshi5170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
